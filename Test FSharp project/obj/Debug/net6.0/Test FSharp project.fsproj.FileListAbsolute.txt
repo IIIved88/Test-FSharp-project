@@ -1,0 +1,26 @@
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\Test FSharp project.exe
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\Test FSharp project.deps.json
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\Test FSharp project.runtimeconfig.json
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\Test FSharp project.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\Test FSharp project.pdb
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\obj\Debug\net6.0\Test FSharp project.fsproj.AssemblyReference.cache
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\obj\Debug\net6.0\Test FSharp project.AssemblyInfoInputs.cache
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\obj\Debug\net6.0\Test FSharp project.AssemblyInfo.fs
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\obj\Debug\net6.0\Test FSharp project.fsproj.CopyComplete
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\obj\Debug\net6.0\Test FSharp project.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\obj\Debug\net6.0\Test FSharp project.pdb
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\obj\Debug\net6.0\Test FSharp project.genruntimeconfig.cache

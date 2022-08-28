@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zcvC8zLyPUl4aUi7dbSfA8OgHa8ljYGChlbWzwbnvn8+rzwI7aKH7ntO9ZQjXuZIFYmJoQ+yn860fhKkxkWU9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniil\\source\\repos\\Test FSharp project\\Test FSharp project\\Test FSharp project.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniil\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
