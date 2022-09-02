@@ -8,12 +8,10 @@
 
   <ItemGroup>
     <Compile Include="Program.fs" />
+    <None Include="ExelFiles\ListData.xlsx" />
     <Compile Include="Types.fs" />
-    <None Include="ListData.xlsx" />
     <Compile Include="ListData.fs" />
   </ItemGroup>
-
-  <ItemGroup />
 
   <ItemGroup>
     <PackageReference Include="ExcelProvider" Version="2.0.0" />
