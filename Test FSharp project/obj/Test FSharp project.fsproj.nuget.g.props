@@ -14,5 +14,6 @@
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\Daniil\.nuget\packages\fsharp.core\6.0.2</PkgFSharp_Core>
+    <PkgExcelProvider Condition=" '$(PkgExcelProvider)' == '' ">C:\Users\Daniil\.nuget\packages\excelprovider\2.0.0</PkgExcelProvider>
   </PropertyGroup>
 </Project>

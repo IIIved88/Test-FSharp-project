@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "zcvC8zLyPUl4aUi7dbSfA8OgHa8ljYGChlbWzwbnvn8+rzwI7aKH7ntO9ZQjXuZIFYmJoQ+yn860fhKkxkWU9g==",
+  "dgSpecHash": "NwLWnFL/HEMp9qaUwQclEJ+sb2UgnPscy19Bh3sQKDCKUop23ItH711DBJ3pZ7Lx5Mn77o3dh40CEAJQ8FviAA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Daniil\\source\\repos\\Test FSharp project\\Test FSharp project\\Test FSharp project.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Daniil\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+    "C:\\Users\\Daniil\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\excelprovider\\2.0.0\\excelprovider.2.0.0.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
