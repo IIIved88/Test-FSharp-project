@@ -8,8 +8,9 @@ open Types
 
 type Data = ExcelFile<"ExcelData\ListData.xlsx", ForceString=true>
 let Data = new Data()
-let some = Data.Data |>Seq.head
-//let getDefinitionByIndex index = some |> Seq.tryFind(fun  x -> string x.Index = index)
+let some = Data.Data
+let getHead = some |>Seq.head
+let getTryFind index = some |>Seq.tryFind (fun x -> x.Id=index  )
 let Index a = a
 let Number b = b
 
@@ -21,5 +22,6 @@ printfn $"Текстовый парметр Index = {ResIndex}"
 printfn $"Числовой параметр Number = {ResNumber}"
 //printfn $"Результат поиска ID = {ResFind}"
 
-printfn $"{some}"
+printfn $"Какие-то данные с head: {getHead}"
+printfn $"Какие-то данные с tryFind: {getTryFind}"
 
