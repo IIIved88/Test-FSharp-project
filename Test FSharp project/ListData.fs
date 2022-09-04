@@ -6,11 +6,11 @@ open FSharp.Interop.Excel
 open Types
 
 
-type Data = ExcelFile<"ExcelData\ListData.xlsx", ForceString=true>
+type Data = ExcelFile<"ExcelFiles\ListData.xlsx", ForceString=true>
 let Data = new Data()
 let some = Data.Data
 let getHead = some |>Seq.head
-let getTryFind index = some |>Seq.tryFind (fun x -> x.Id=index  )
+let getTryFind ResIndex = some |>Seq.tryFind (fun x -> x.Index=ResIndex)
 let Index a = a
 let Number b = b
 
