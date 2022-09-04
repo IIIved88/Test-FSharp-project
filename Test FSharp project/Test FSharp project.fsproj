@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <Compile Include="Program.fs" />
-    <None Include="ExelFiles\ListData.xlsx" />
+    <None Include="ExсelFiles\ListData.xlsx" />
     <Compile Include="Types.fs" />
     <Compile Include="ListData.fs" />
   </ItemGroup>
