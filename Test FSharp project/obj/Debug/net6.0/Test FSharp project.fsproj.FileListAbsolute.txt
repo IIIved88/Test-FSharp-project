@@ -24,3 +24,6 @@ C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\obj\Debug\n
 C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\obj\Debug\net6.0\Test FSharp project.dll
 C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\obj\Debug\net6.0\Test FSharp project.pdb
 C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\obj\Debug\net6.0\Test FSharp project.genruntimeconfig.cache
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\ExcelDataReader.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+C:\Users\Daniil\source\repos\Test FSharp project\Test FSharp project\bin\Debug\net6.0\ExcelProvider.Runtime.dll
