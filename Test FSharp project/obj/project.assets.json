@@ -305,11 +305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniil\\source\\repos\\Test FSharp project\\Test FSharp project\\Test FSharp project.fsproj",
+      "projectUniqueName": "C:\\Users\\Daniil\\RiderProjects\\Test-FSharp-project\\Test FSharp project\\Test FSharp project.fsproj",
       "projectName": "Test FSharp project",
-      "projectPath": "C:\\Users\\Daniil\\source\\repos\\Test FSharp project\\Test FSharp project\\Test FSharp project.fsproj",
+      "projectPath": "C:\\Users\\Daniil\\RiderProjects\\Test-FSharp-project\\Test FSharp project\\Test FSharp project.fsproj",
       "packagesPath": "C:\\Users\\Daniil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniil\\source\\repos\\Test FSharp project\\Test FSharp project\\obj\\",
+      "outputPath": "C:\\Users\\Daniil\\RiderProjects\\Test-FSharp-project\\Test FSharp project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniil\\AppData\\Roaming\\NuGet\\NuGet.Config",

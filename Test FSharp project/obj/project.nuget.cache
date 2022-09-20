@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NwLWnFL/HEMp9qaUwQclEJ+sb2UgnPscy19Bh3sQKDCKUop23ItH711DBJ3pZ7Lx5Mn77o3dh40CEAJQ8FviAA==",
+  "dgSpecHash": "ozKPEEZXsV7YuwBu9hGgKny7QHDhOcRd4mOMqHGPMrRIvVPZ2og3uQ+3iPUf9aaVgqAIBx4YbhfPC+HUfX7qsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniil\\source\\repos\\Test FSharp project\\Test FSharp project\\Test FSharp project.fsproj",
+  "projectFilePath": "C:\\Users\\Daniil\\RiderProjects\\Test-FSharp-project\\Test FSharp project\\Test FSharp project.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniil\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
     "C:\\Users\\Daniil\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512",
